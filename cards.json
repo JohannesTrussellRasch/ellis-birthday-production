@@ -1,24 +1,29 @@
 {
     "cards": [
         {
-            "imgUrl": "/hero-picture.jpg",
-            "heading": "Var är kalaset",
-            "text": "Kalaset kommer hållas i vår trädgård på Ånestadsgatan 429 i Smedby."
+            "imgUrl": "/ellis-one.jpeg",
+            "heading": "När",
+            "text": "Fredagen den 6 augusti. Ni är välkomna när ni vill mellan 13.00 och 16.00 "
         },
         {
-            "imgUrl": "/hero-picture.jpg",
-            "heading": "När är Kalaset",
-            "text": "Kalaset hålls som drop-in den 6:e Augusti mellan 13:00 och 16:00"
+            "imgUrl": "/ellis-two.jpg",
+            "heading": "Var",
+            "text": "I vår trädgård på Ånestadsgatan 429 i Smedby"
         },
         {
-            "imgUrl": "/hero-picture.jpg",
+            "imgUrl": "/ellis-three.jpg",
             "heading": "Mat",
-            "text": "Vi bjuder på fika och dryck"
+            "text": "Det bjuds på fika"
         },
         {
-            "imgUrl": "/hero-picture.jpg",
+            "imgUrl": "/ellis-four.jpg",
             "heading": "OSA",
-            "text": "OSA senast den 29:e Juli"
+            "text": "Så snart som möjligt men senast 31 juli"
+        },
+        {
+            "imgUrl": "/ellis-five.jpg",
+            "heading": "Hoppas vi ses!",
+            "text": "MVH Ellis, Isabelle och Johannes"
         }
     ]
 }
