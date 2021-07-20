@@ -1,0 +1,24 @@
+{
+    "cards": [
+        {
+            "imgUrl": "/hero-picture.jpg",
+            "heading": "Var är kalaset",
+            "text": "Kalaset kommer hållas i vår trädgård på Ånestadsgatan 429 i Smedby."
+        },
+        {
+            "imgUrl": "/hero-picture.jpg",
+            "heading": "När är Kalaset",
+            "text": "Kalaset hålls som drop-in den 6:e Augusti mellan 13:00 och 16:00"
+        },
+        {
+            "imgUrl": "/hero-picture.jpg",
+            "heading": "Mat",
+            "text": "Vi bjuder på fika och dryck"
+        },
+        {
+            "imgUrl": "/hero-picture.jpg",
+            "heading": "OSA",
+            "text": "OSA senast den 29:e Juli"
+        }
+    ]
+}
